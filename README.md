@@ -60,17 +60,17 @@ Screenshots of the application interface and output will be added here.
 ![Login Page](Screenshots./LoginPage.jpeg)
 
 ### Home Page
-![Home Page](Screenshots/HomePage.jpeg)
+![Home Page](Screenshots./HomePage.jpeg)
 
 ### Employee Management
-![Employee Management](Screenshots/AddEmployee.jpeg)
+![Employee Management](Screenshots./AddEmployee.jpeg)
 
 ### Allowances
-![Allowances](Screenshots/AllowancePage.jpeg)
+![Allowances](Screenshots./AllowancePage.jpeg)
 
 ### View Employees
-![View Employees](Screenshots/ViewPage.jpeg)
+![View Employees](Screenshots./ViewPage.jpeg)
 
 ### Reports
-![Reports](Screenshots/ReportPage.jpeg)
+![Reports](Screenshots./ReportPage.jpeg)
 
