@@ -5,7 +5,6 @@ The Payroll Management System is a Java desktop application developed to manage 
 
 ## Technologies Used
 - Java
-- Java Swing
 - JDBC
 - MySQL
 - NetBeans IDE
