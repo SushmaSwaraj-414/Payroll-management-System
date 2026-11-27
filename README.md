@@ -54,3 +54,23 @@ MySQL is used as the database for storing application information. JDBC is used 
 ## Project Screenshots
 Screenshots of the application interface and output will be added here.
 
+## Project Screenshots
+
+### Login Page
+![Login Page](Screenshots./LoginPage.jpeg)
+
+### Home Page
+![Home Page](Screenshots/HomePage.jpeg)
+
+### Employee Management
+![Employee Management](Screenshots/AddEmployee.jpeg)
+
+### Allowances
+![Allowances](Screenshots/AllowancePage.jpeg)
+
+### View Employees
+![View Employees](Screenshots/ViewPage.jpeg)
+
+### Reports
+![Reports](Screenshots/ReportPage.jpeg)
+
